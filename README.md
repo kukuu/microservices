@@ -19,4 +19,4 @@ Communication between each of these modules is achieved via web service calls an
  on a service bus that calls to and collects the relevant data/information from each module. 
 
  ## Notification
- This document is written with relevance to CONTNUOUS DELIVERY process
+ This document is written with relevance to CONTNUOUS DELIVERY & CONTINUOUS INTEGRATION Agile process
