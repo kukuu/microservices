@@ -1,4 +1,4 @@
-# microservices
+# Microservices
 Achieving Continuous Delivery with Microservices
 
 
@@ -18,5 +18,5 @@ just independent. In fact they each may have a website, web service, windows ser
 Communication between each of these modules is achieved via web service calls and messages
  on a service bus that calls to and collects the relevant data/information from each module. 
 
- # Notification
+ ## Notification
  This document is written with relevance to CONTNUOUS DELIVERY process
