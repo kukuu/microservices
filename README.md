@@ -8,7 +8,7 @@ Communication between each of these modules is achieved via web service calls an
  
  Choosing which architecture is right for your project is a very complex task. Complexity, flexibility, size, time frames, diversity of the team, cost-effectiveness and specific conditions of the project are just some of the factors that need to be considered when deciding which software architecture is the best for your project.
 
-## The Architecture
+### The Architectural Pattern
 
 Microservices architecture is a distributed system of single self-contained units and an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services.
 
@@ -22,7 +22,7 @@ Services must handle requests from the application’s clients. Furthermore, ser
 
 
 
-## This pattern has the following benefits and motivation
+### Benefits and Motivation
 
 - Loose coupling since it decouples clients from services
 - Small individual components
