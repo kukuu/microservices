@@ -3,10 +3,10 @@ A Microservices architecture refers to an application which is constructed from 
 number of independent services called Microservices.  Each microservice is a 
 self-contained module that performs a discrete group of functions. 
 The term micro does not mean that the modules that make up the system are necessarily small, 
-just independent. In fact they each may have a website, web service, windows service and a database. 
+just independent. In fact, they each may have a website, web service, windows service and a database. 
 Communication between each of these modules is achieved via web service calls and messages on a service bus that calls to and collects the relevant data/information from each module. 
  
- Choosing which architecture is right for your project is a very complex task. Complexity, flexibility, size, time frames, diversity of the team and specific conditions of the project are just some of the factors that need to be considered when deciding which software architecture is the best for your project.
+ Choosing which architecture is right for your project is a very complex task. Complexity, flexibility, size, time frames, diversity of the team, cost-effectiveness and specific conditions of the project are just some of the factors that need to be considered when deciding which software architecture is the best for your project.
 
 # What it is
 
