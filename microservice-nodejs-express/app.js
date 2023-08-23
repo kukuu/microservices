@@ -8,7 +8,7 @@ const log = require('./utils/Logger');
 var apiEndpoint = require('./routes/api');
 
 log.info('Starting the express app');
-var app = express();
+var app = express();//initialise express()
 
 // view engine setup
 app.set('view engine', 'hbs');
