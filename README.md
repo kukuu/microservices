@@ -51,3 +51,4 @@ without affecting the solution as a whole which is key in providing a reliable s
 
 ## Related resources
 - https://github.com/kukuu/integration/blob/main/monitoring-alerting.md
+- https://github.com/kukuu/integration/tree/main
