@@ -48,3 +48,6 @@ without affecting the solution as a whole which is key in providing a reliable s
 - No Continuous Deployment
 - Not Scalable
 - Lack of Log Management and Monitoring.
+
+## Related resources
+- https://github.com/kukuu/integration/blob/main/monitoring-alerting.md
