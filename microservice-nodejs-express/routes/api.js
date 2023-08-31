@@ -55,6 +55,7 @@ let options = {
       url: "https://github.com/kukuu?tab=repositories",
     },
   },
+  // Gateway API array buffer for managing routes. Optimising
   apis: [
     "routes/api.js",
     "routes/posts.js",
