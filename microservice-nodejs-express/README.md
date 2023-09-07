@@ -103,6 +103,6 @@ app.use(bodyParser.urlencoded({ extended: false }));
 - The options passed to bodyParser.urlencoded() include:
 
   - extended: false: This option specifies whether to use the querystring library to parse the data (when set to false) or to use the qs library (when set to true).
-  - 
+    
   - The extended option allows you to parse complex objects and arrays, but in this case, it's set to false to parse simpler data.
 
