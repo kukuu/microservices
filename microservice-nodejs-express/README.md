@@ -79,3 +79,30 @@ Run  integration test using the command:
 
 ## Flow Diagram
 https://excalidraw.com/)https://excalidraw.com/
+
+
+## Express Middlewares
+In the context of a Node.js application using the Express framework, the code snippet 
+
+```
+app.use(bodyParser.urlencoded({ extended: false }));
+
+```
+ is used to configure middleware to handle incoming HTTP requests.
+
+- The code is configuring middleware to parse incoming URL-encoded data from HTML forms in the request body and make it available in the req.body object for further processing in an Express application.
+
+- app: Refers to the instance of the Express application.
+
+- app.use(): This is a method in Express used to add middleware functions to the request processing pipeline.
+
+- The code is configuring the bodyParser middleware to handle urlencoded data, which is typically submitted in HTML forms. The bodyParser middleware parses incoming request bodies and makes the data available in the req.body object.
+
+- bodyParser.urlencoded(): This method of the bodyParser middleware is used to parse URL-encoded data from the request body.
+
+- The options passed to bodyParser.urlencoded() include:
+
+  - extended: false: This option specifies whether to use the querystring library to parse the data (when set to false) or to use the qs library (when set to true).
+  - 
+  - The extended option allows you to parse complex objects and arrays, but in this case, it's set to false to parse simpler data.
+
