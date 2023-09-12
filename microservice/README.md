@@ -84,7 +84,8 @@ https://excalidraw.com/)https://excalidraw.com/
 uvicorn main:app --reload
 
 ### In another terminal CD into front-end/expense-management and then run 
-npm run dev 
+- npm install
+- npm run dev 
 and go to /expenses page
 
 ### To see the expenses in express-server open another terminal do the following
