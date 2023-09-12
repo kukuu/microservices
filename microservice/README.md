@@ -94,5 +94,8 @@ and go to /expenses page
 - open port 3011
 - In the swagger doc experiment with expenses end points.
 
+### Terminal Commands
+1. <img width="273" alt="1- ms-terminal-1-command" src="https://github.com/kukuu/microservices/assets/10147828/18030ab0-62b6-4c4c-ac72-43775e4d7079">
+
 
 
