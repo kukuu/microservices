@@ -97,5 +97,17 @@ and go to /expenses page
 ### Terminal Commands
 1. <img width="273" alt="1- ms-terminal-1-command" src="https://github.com/kukuu/microservices/assets/10147828/18030ab0-62b6-4c4c-ac72-43775e4d7079">
 
+2.  <img width="275" alt="2- ms-terminal-2-command" src="https://github.com/kukuu/microservices/assets/10147828/8e0f7f29-344a-4daa-900f-9de94aef7515">
+
+3. <img width="165" alt="3- ms-terminal-2-command" src="https://github.com/kukuu/microservices/assets/10147828/68e45087-2050-4db9-8af7-1a5128db178a">
+
+4. <img width="211" alt="3- ms-terminal-3-command" src="https://github.com/kukuu/microservices/assets/10147828/23597f47-c02c-434a-89af-da16e53ec8dc"> 
+
+5. <img width="208" alt="4- ms-terminal-3-command" src="https://github.com/kukuu/microservices/assets/10147828/9a9db10c-167b-46f4-9b0d-27e70c5fa15e">
+
+
+
+
+
 
 
