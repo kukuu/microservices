@@ -12,7 +12,7 @@ Communication between each of these modules is achieved via web service calls an
 
 Microservices architecture is a distributed system of single self-contained units and an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface to communicate with other sets of services.
 
-By splitting your app into small units every part of it is independently deployable and scalable, can be written by different teams and in different programming languages and can be tested individually.
+By splitting your app into small units every part of it is independently  deployable and scalable, can be written by different teams and in different programming languages and can be tested individually.
 
 The micro-service  applications is capable of running in their own memory space, data federation and scale independently from each other across potentially many separate machines. 
 
