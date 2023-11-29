@@ -1,6 +1,6 @@
 # Final
 
-Summary
+_Summary_
 
 The overarching goal will be to modernise and enhance the IT infrastructure by re-architecting and re-engineering the existing systems. The primary objectives will include migrating from legacy and traditional systems to open-source, cloud-hosted commodity IT platforms and, seamlessly integrating these platforms into various components.
 
