@@ -2,7 +2,7 @@
 
 When delving into the realm of reporting, one platform that stands out prominently is Microsoft's Power BI. Renowned for its versatility, Power BI seamlessly connects to a myriad of data sources, ranging from familiar databases like MySQL and SQL Server to widely-used platforms such as Google Sheets, Excel, CSV, and Microsoft Data Lake, among others.
 
-A compelling use case in the reporting domain involves the visualization of data extracted from CRM systems like Streak CRM or Project Management Systems like JIRA Asana etc. Virtually every major CRM offers the capability to set up webhooks, enabling you to update your database in real-time based on specific actions within the CRM, such as lead generation, conversions, and other pivotal events.
+A compelling use case in the reporting domain involves the visualization of data extracted from CRM systems like Streak CRM or Project Management Systems like JIRA, Asana etc. Virtually every major CRM offers the capability to set up webhooks, enabling you to update your database in real-time based on specific actions within the CRM, such as lead generation, conversions, and other pivotal events.
 
 For a budget-friendly solution, consider employing Google Sheets as a data aggregator. To achieve this, establish API endpoints on the spreadsheet side, leveraging Google Apps Script. These endpoints can then be utilized when configuring webhooks, ensuring that your Google Sheet remains dynamically updated with the latest CRM data.
 Macros could be written to transform the fetched data in the Google sheet itself. Or periodic triggers could also be written for other data related maintenance stuffs.
