@@ -11,93 +11,93 @@ When it comes to reporting, two powerful tools come to the forefront: Microsoft'
 
 For a more customized approach, consider developing your own data service using technologies like Express, Python or any other technologies. Create REST APIs to establish a connection between your chosen technologies and databases such as PostgreSQL or MySQL. Power BI can then be employed to fetch and visualize data from these databases, providing a tailored solution to your reporting needs.
 
-Popular Data connectors for Power BI
+## Popular Data connectors for Power BI
 
 
-Relational Databases:
+- Relational Databases:
 
-Microsoft SQL Server
+- Microsoft SQL Server
 
-MySQL
+- MySQL
 
-PostgreSQL
+- PostgreSQL
 
-Oracle Database
+- Oracle Database
 
-Cloud-Based Data Warehouses:
+- Cloud-Based Data Warehouses:
 
-Azure SQL Data Warehouse
+- Azure SQL Data Warehouse
 
-Amazon Redshift
+- Amazon Redshift
 
-Google BigQuery
+- Google BigQuery
 
-Snowflake
+- Snowflake
 
-Excel and CSV Files:
+- Excel and CSV Files:
 
-Excel workbooks
+- Excel workbooks
 
-CSV (Comma-Separated Values) files
+- CSV (Comma-Separated Values) files
 
-Online Services:
+## Online Services:
 
-SharePoint Online
+- SharePoint Online
 
-Dynamics 365
+- Dynamics 365
 
-Salesforce
+- Salesforce
 
-Google Analytics
+- Google Analytics
 
-Azure and Other Cloud Services:
+- Azure and Other Cloud Services:
 
-Azure Blob Storage
+- Azure Blob Storage
 
-Azure Table Storage
+- Azure Table Storage
 
-Azure Data Lake Storage
+- Azure Data Lake Storage
 
-Google Cloud Storage
+- Google Cloud Storage
 
-Web Services and APIs:
+- Web Services and APIs:
 
-REST APIs
+- REST APIs
 
-OData feeds
+- OData feeds
 
-JSON data sources
+- JSON data sources
 
-Web content (HTML)
+- Web content (HTML)
 
-Other Database Systems:
+## Other Database Systems:
 
-IBM Db2
+- IBM Db2
 
-Teradata
+- Teradata
 
-SAP HANA
+- SAP HANA
 
-Streaming Data:
+- Streaming Data:
 
-Azure Stream Analytics
+- Azure Stream Analytics
 
-Apache Kafka
+- Apache Kafka
 
-Power BI REST API for real-time dashboards
+- Power BI REST API for real-time dashboards
 
-Data Connectors:
+## Data Connectors:
 
-SharePoint Lists
+- SharePoint Lists
 
-Exchange
+- Exchange
 
-Hadoop Distributed File System (HDFS)
+- Hadoop Distributed File System (HDFS)
 
-Other Sources:
+## Other Sources:
 
-Web (HTML)
+- Web (HTML)
 
-XML
+- XML
 
-Folder (for Power Query transformations on multiple files)
+- Folder (for Power Query transformations on multiple files)
