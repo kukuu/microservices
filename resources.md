@@ -687,10 +687,15 @@ https://www.youtube.com/watch?v=fY3mBJSDA44  | https://www.youtube.com/watch?v=L
 ### Headless CMS  - Gatsby & Contentful
 
 https://www.youtube.com/watch?v=fY3mBJSDA44 Episode 1
+
 https://www.youtube.com/watch?v=IaNU4R3ck_k Episode 2
+
 https://www.youtube.com/watch?v=L9Uv_bLSaP4 Episode 3
+
 https://www.youtube.com/watch?v=NkFz2psDupw Episode 4
+
 https://www.youtube.com/watch?v=A8Y1-GRmxFw Episode 5
+
 https://www.youtube.com/watch?v=ONg1gpx0zlA Episode 6
 
 
