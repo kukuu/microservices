@@ -430,107 +430,107 @@ iii. ttps://www.mochajs.org
 https://egghead.io/courses/build-content-rich-progressive-web-apps-with-gatsby-and-contentful?utm_content=build-content-rich-progressive-web-apps-with-gatsby-and-contentful&amp%3Butm_medium=email&amp%3Butm_source=drip&amp%3Butm_term=gatsby&utm_medium=email 
 
 
-## TypeScript — JavaScript with Superpowers 
+### TypeScript — JavaScript with Superpowers 
 https://medium.com/better-programming/typescript-javascript-with-superpowers-part-ii-69a6bd2c6842
 
-## Web Assembly
+### Web Assembly
 https://medium.com/better-programming/webassembly-is-it-as-scary-as-it-sounds-b0c38fb2d9c8
 
-## How can you trust a JWT to be authentic?
+### How can you trust a JWT to be authentic?
 https://medium.com/swlh/how-can-you-trust-a-jwt-to-be-authentic-2bd5124b243a
 
 
-## Functional JS From Α to Ω
+### Functional JS From Α to Ω
 Using forEach as a diving board to understand Functional Programming
 https://medium.com/better-programming/functional-js-from-%CE%B1-to-%CF%89-8dc0cfe1f4e1
 
-## JavaScript’s Magical Tips Every Developer Should Remember
+### JavaScript’s Magical Tips Every Developer Should Remember
 https://medium.com/swlh/javascripts-magical-tips-every-developer-should-remember-38c71b1cbfba
 
 
-## Why do we need Hooks?
+### Why do we need Hooks?
 https://medium.com/payscale-tech/introduction-to-react-hooks-29ef97547862
 
-## Everything you need to know about the JavaScript Scope
+### Everything you need to know about the JavaScript Scope
 https://medium.com/@akarshanbansal/everything-you-need-to-know-about-the-javascript-scope-f81cbffa9491
 
-## The curious case of variable declarations inside a catch block
+### The curious case of variable declarations inside a catch block
 https://medium.com/@sarbbottam/the-curious-case-of-variable-declarations-inside-a-catch-block-891a4369aaf0
 
-## Introduction To Testing With Jest - React Testing For Beginners
+### Introduction To Testing With Jest - React Testing For Beginners
 https://www.youtube.com/watch?v=D9DdY2WmM-s
 
-## Writing Unit Tests With Jest - React Testing For Beginners
+### Writing Unit Tests With Jest - React Testing For Beginners
 https://www.youtube.com/watch?v=QzznzOlkgGw
 
-## Writing Integration Tests - React Testing For Beginners
+### Writing Integration Tests - React Testing For Beginners
 https://www.youtube.com/watch?v=52-QICDljww
 
 
-## How can I convert an Excel sheet to JSON data in JavaScript?
+### How can I convert an Excel sheet to JSON data in JavaScript?
 https://myclassbook.org/convert-excel-json-using-javascript-code/
 
-## Map, Filter and Reduce – Animated
+### Map, Filter and Reduce – Animated
 https://medium.com/@js_tut/map-filter-and-reduce-animated-7fe391a35a47
 
-## Service calls make your tests better 
+### Service calls make your tests better 
 https://medium.com/swlh/service-calls-make-your-tests-better-457bed6da6db 
 
-## Save Energy and Time with JavaScript Memoization 
+### Save Energy and Time with JavaScript Memoization 
 https://medium.com/swlh/save-energy-and-time-with-javascript-memoization-5167bc36e8b7
 
-## Cross-Platform Apps With Electron and React: Part 2
+### Cross-Platform Apps With Electron and React: Part 2
 https://medium.com/better-programming/cross-platform-apps-with-electron-and-react-part-2-3307ae61014a
 
-## Object-Oriented Programming — The Trillion Dollar Disaster
+### Object-Oriented Programming — The Trillion Dollar Disaster
 https://medium.com/codeiq/object-oriented-programming-the-trillion-dollar-disaster-%EF%B8%8F-92a4b666c7c7
 
-## Managing secrets and environment variables on kubernetes cluster
+### Managing secrets and environment variables on kubernetes cluster
 https://medium.com/swlh/managing-secrets-and-environment-variables-on-kubernetes-cluster-fd75a12141be
 
 
-## How To Use an API with JavaScript (The Complete Beginner’s Guide) 
+### How To Use an API with JavaScript (The Complete Beginner’s Guide) 
 https://medium.com/@rapid_api/how-to-use-an-api-with-javascript-the-complete-beginners-guide-aa9e0542eb5 
 
-## Complete guide to using TypeORM and TypeScript for data persistence in Node.js module 
+### Complete guide to using TypeORM and TypeScript for data persistence in Node.js module 
 https://levelup.gitconnected.com/complete-guide-to-using-typeorm-and-typescript-for-data-persistence-in-node-js-module-bfce169959d9
 
-## Building a Real-time React App with GraphQL and Apollo
+### Building a Real-time React App with GraphQL and Apollo
 
-## Setting up a React + TypeScript + SASS + Webpack and Babel 7 project in 6 Steps
+### Setting up a React + TypeScript + SASS + Webpack and Babel 7 project in 6 Steps
 https://medium.com/swlh/setting-up-a-react-typescript-sass-webpack-and-babel-7-project-in-6-steps-b4d172d1d0d6
 
-## Beast: Moving Data from Kafka to BigQuery
+### Beast: Moving Data from Kafka to BigQuery
 https://blog.gojekengineering.com/beast-moving-data-from-kafka-to-bigquery-3c22567a3472
 
 
-## Recursion-Phobia: Fear of Falling Into an Infinite Loop With Recursion
+### Recursion-Phobia: Fear of Falling Into an Infinite Loop With Recursion
 https://medium.com/better-programming/recursion-phobia-4251f625d7b6
 https://medium.com/carsales-dev/building-a-real-time-react-app-with-graphql-and-apollo-bd7f66a8732
 
 
-## nodejs express graphql microservice
+### nodejs express graphql microservice
 https://www.google.com/search?q=nodejs+express+graphql+microservice&oq=nodejs+express+graphql+microservice&aqs=chrome..69i57j33.25338j0j4&sourceid=chrome&ie=UTF-8
 
-## GraphQL as an API Gateway to Microservices
+### GraphQL as an API Gateway to Microservices
 https://blog.codeship.com/graphql-as-an-api-gateway-to-micro-services/
 
-## What are microservices
+### What are microservices
 https://www.youtube.com/watch?v=PY9xSykods4
 
-## PHP Webservices
+### PHP Webservices
 https://www.youtube.com/watch?v=U-L-BJkxaCA
 
-## Algorithms in JavaScript
+### Algorithms in JavaScript
 https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038
 
-## Moving from SASS to PostCSS
+### Moving from SASS to PostCSS
 https://medium.com/@im.simonecorsi/moving-from-sass-to-postcss-why-what-and-how-f68b1bc760dc
 
-## NodeJS Express micro-service
+### NodeJS Express micro-service
 https://robferguson.org/blog/2015/06/06/build-your-microservices-api-with-swagger/
 
-## PHP XML converter
+### PHP XML converter
 i. https://tryphp.w3schools.com/showphp.php?filename=demo_func_simplexml_load_file2
 
 ii. https://www.w3schools.com/php7/func_simplexml_load_file.asp
@@ -539,130 +539,152 @@ iii. XML to CSV - https://www.w3schools.com/php7/func_string_implode.asp
 
 iv. https://www.roytuts.com/how-to-convert-xml-to-csv-using-php/
 
-## PHP implode()
+### PHP implode()
 https://www.w3schools.com/php7/func_string_implode.asp
 
-## Airbnb JavaScript Style Guide
+### Airbnb JavaScript Style Guide
 https://github.com/airbnb/javascript
 
-## GitHub
+### GitHub
 
 ii. https://www.youtube.com/watch?v=MnUd31TvBoU
 
-## Web Accessibility Toolkit
+### Web Accessibility Toolkit
 https://usabilitygeek.com/10-free-web-based-web-site-accessibility-evaluation-tools/
 
-## Software Testing Lifecycle
+### Software Testing Lifecycle
 
 https://github.com/kukuu/AGILITY/blob/master/software-testing-life-cycle.md
 
-## How long must a SCRUM last
+### How long must a SCRUM last
 
 https://github.com/kukuu/AGILITY/blob/master/how-long-must-a-scrum-last.md
 
-## Digitally signing a document
+### Digitally signing a document
 
 https://www.google.com/search?q=youtube+create+digi+sign+documents&oq=youtube+create+digi+sign+documents&aqs=chrome..69i57j69i64.25415j0j7&sourceid=chrome&ie=UTF-8#kpvalbx=_k6NdXYyYIpuC1fAPofObyAE6
 
-## Completely Edit PDF, Anyway You Want
+### Completely Edit PDF, Anyway You Want
 
 https://pdf.wondershare.net/ad/pdf-editor/restriction.html?gclsrc=aw.ds&&gclid=CjwKCAjw1_PqBRBIEiwA71rmtX3OH4p_DikWZcUA5kKOt4LpkqxtgfuJwg-P8415_j98LBd79SPHwRoCPZMQAvD_BwE
 
-## Convert HTML to PDF
+### Convert HTML to PDF
 
 i. https://pdfcrowd.com/
 
 ii. https://www.youtube.com/watch?v=JQcST_iOgCs
 
-## Selections
-
-
-https://www.youtube.com/watch?v=aWxR05rUoto - Microservices with Node, Docker, NGINX
-
-
-https://youtube.com/watch?v=c4nO5DHQj0k - Remy
-
-
-https://www.youtube.com/watch?v=p1UmoELah8M - Build REACT REDUX - Bucky Roberts
-
-
-https://www.youtube.com/watch?v=D48iCw3WWpI - Learn Python
-
-
-https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/ - LinkedIn
-
-
-https://github.com/kukuu?tab=repositories  - My Repo
-
-
-http://www.filltext.com AJAX calls
-
-
-https://youtube.com/watch?v=aH2qQGgugG0 - Redux Saga
-
-
-https://www.youtube.com/watch?v=n1NaVkKdrwc - Gatsby
-
-
-https://www.youtube.com/watch?v=GQ0HwmwGBZw - Testing queries with GraphQL
-
-
-https://www.youtube.com/watch?v=HlYFW2zaYQM - Push notifications with nodeJS and SW
-
-
-https://www.youtube.com/watch?v=2d-SX8YRyis - REACT testing with JEST
-
-
-https://www.youtube.com/watch?v=u5XTnNBotqs - REACT - Testing with Jest & Enzyme
-
-
-https://www.youtube.com/watch?v=r5lhmEoaWBM - Testing REACT/REDUX
-
-
-https://www.youtube.com/watch?v=9H3eICDz4-4 - Building Micro-services-Best Practices
-
-
-https://www.youtube.com/watch?v=xqYD8QXJX9U - Learn TypeScript
-
-
-https://www.youtube.com/watch?v=Qw9zlE3t8Ko - Docker Compose
-
-
-https://www.youtube.com/watch?v=U-L-BJkxaCA - PHP WebServices
-
-
-https://www.youtube.com/watch?v=YFl2mCHdv24 - Docker Compose
-
-
-https://www.youtube.com/watch?v=6uE2XULbT3o - Building for High Availability
-
-
-https://www.youtube.com/watch?v=2ajlfURobd8 | https://www.youtube.com/watch?v=bKjH8WhSu_E - MongoDB Tutorials
 
 
 
-https://www.youtube.com/watch?v=Pyo4RWtxsQM - Big Data, Tools and Technologies
+### Microservices with Node, Docker, NGINX
+https://www.youtube.com/watch?v=aWxR05rUoto
 
 
-https://www.youtube.com/watch?v=jaVNP3nIAv0 - Rock, Paper , Scissors
+### Remy
+https://youtube.com/watch?v=c4nO5DHQj0k 
 
 
-https://www.youtube.com/watch?v=0AAIbEAyFxg - Chai Mocha Test
+### Build REACT REDUX - Bucky Roberts
+https://www.youtube.com/watch?v=p1UmoELah8M  
 
 
-https://www.youtube.com/watch?v=MLTRHc5dk6s - JS Unit testing with Mocha, JS & Chai
+### Learn Python
+https://www.youtube.com/watch?v=D48iCw3WWpI
 
 
-https://www.youtube.com/watch?v=u-OmVr_fT4s - Python tutorials
+### LinkedIn
+https://www.linkedin.com/in/alexander-adu-sarkodie-063b4b4a/
 
 
-https://www.youtube.com/watch?v=MnUd31TvBoU | https://www.youtube.com/watch?v=fQLK8Ib_SKk   - GitHub
+ ### AJAX calls
+ http://www.filltext.com
+
+
+### Redux Saga
+https://youtube.com/watch?v=aH2qQGgugG0  
+
+
+### Gatsby 
+https://www.youtube.com/watch?v=n1NaVkKdrwc 
+
+
+### Testing queries with GraphQL 
+https://www.youtube.com/watch?v=GQ0HwmwGBZw 
+
+
+### Push notifications with nodeJS and SW
+https://www.youtube.com/watch?v=HlYFW2zaYQM  
+
+
+### REACT testing with JEST 
+https://www.youtube.com/watch?v=2d-SX8YRyis  
+
+
+### REACT - Testing with Jest & Enzyme
+https://www.youtube.com/watch?v=u5XTnNBotqs  
+
+
+### Testing REACT/REDUX
+https://www.youtube.com/watch?v=r5lhmEoaWBM  
+
+
+### Building Micro-services-Best Practices
+https://www.youtube.com/watch?v=9H3eICDz4-4
+
+
+### Learn TypeScript
+https://www.youtube.com/watch?v=xqYD8QXJX9U  
+
+
+### Docker Compose
+https://www.youtube.com/watch?v=Qw9zlE3t8Ko 
+
+
+### PHP WebServices
+https://www.youtube.com/watch?v=U-L-BJkxaCA  
+
+
+### Docker Compose
+https://www.youtube.com/watch?v=YFl2mCHdv24 
+
+
+### Building for High Availability
+https://www.youtube.com/watch?v=6uE2XULbT3o 
+
+
+### MongoDB Tutorials
+https://www.youtube.com/watch?v=2ajlfURobd8 | https://www.youtube.com/watch?v=bKjH8WhSu_E 
+
+
+
+### Big Data, Tools and Technologies
+https://www.youtube.com/watch?v=Pyo4RWtxsQM 
+
+
+### Rock, Paper , Scissors
+https://www.youtube.com/watch?v=jaVNP3nIAv0  
+
+
+### Chai Mocha Test
+https://www.youtube.com/watch?v=0AAIbEAyFxg 
+
+
+### JS Unit testing with Mocha, JS & Chai
+https://www.youtube.com/watch?v=MLTRHc5dk6s  
+
+
+### Python tutorials
+https://www.youtube.com/watch?v=u-OmVr_fT4s  
+
+
+### GitHub
+https://www.youtube.com/watch?v=MnUd31TvBoU | https://www.youtube.com/watch?v=fQLK8Ib_SKk   
 
 https://www.youtube.com/watch?v=fY3mBJSDA44  | https://www.youtube.com/watch?v=L9Uv_bLSaP4 | https://www.youtube.com/watch?v=hhX8nCnaNFM - 
 
  
-Headless CMS  - Gatsby & Contentful - 
-
+### Headless CMS  - Gatsby & Contentful
 
 https://www.youtube.com/watch?v=fY3mBJSDA44 Episode 1
 https://www.youtube.com/watch?v=IaNU4R3ck_k Episode 2
