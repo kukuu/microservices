@@ -18,7 +18,7 @@ This boilerplate provides pre-configured:
 
 1. ExpressJS REST API template
 2. Swagger documentation and Swagger UI
-3. Jasmine, Sinon, Chai, Supertest configuration for Unit and integration tests.
+3. Jasmine, Sinon, Chai, Supertest configuration for Unit and integration tests. 
 4. Pre-configured jasmine spec reporter
 5. Jasmine Node Debug for debugging unit tests.
 6. Fully configured istanbul test coverage
