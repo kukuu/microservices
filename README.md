@@ -14,7 +14,7 @@ Microservices architecture is a distributed system of single self-contained unit
 
 By splitting your app into small units every part of it is independently  deployable and scalable, can be written by different teams and in different programming languages and can be tested individually.
  
-The micro-service  applications is capable of running in their own memory space, data federation and scale independently from each other across potentially many separate machines. 
+The micro-service  applications is capable of running in their own memory space, data  federation and scale independently from each other across potentially many separate machines. 
 
 When you choose to build your application as a set of microservices, you need to decide how your application’s clients will interact with the microservices. With a monolithic application there is just one set of (typically replicated, load‑balanced) endpoints. In a microservices architecture, however, each microservice exposes a set of what are typically fine‑grained endpoints.
 
