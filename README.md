@@ -30,7 +30,7 @@ This work demonstrates several key design patterns that include:
 
 - Exception handling and exception propagation
 
-## What it provide
+#### What it provide
 
 - ExpressJS REST API template
 
@@ -48,7 +48,7 @@ This work demonstrates several key design patterns that include:
 
 
 
-### The Architectural Pattern
+## The Architectural Pattern
 
 Microservices architecture is a distributed system of single self-contained units and an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface  to communicate with other sets of services. 
 
@@ -62,7 +62,7 @@ Services must handle requests from the application’s clients. Furthermore, ser
 
 
 
-### Benefits and Motivation
+## Benefits and Motivation
 
 - Loose coupling since it decouples clients from services
 - Small individual components
