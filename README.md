@@ -50,5 +50,6 @@ without affecting the solution as a whole which is key in providing a reliable s
 - Lack of Log Management and Monitoring.
 
 ## Related resources
+- https://github.com/kukuu/integration/blob/main/REST-API-and-MACH-architecture.md
 - https://github.com/kukuu/integration/blob/main/monitoring-alerting.md
 - https://github.com/kukuu/integration/tree/main
