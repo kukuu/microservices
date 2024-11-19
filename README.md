@@ -8,6 +8,46 @@ Communication between each of these modules is achieved via web service calls an
  
  Choosing which architecture is right for your project is a very complex task. Complexity, flexibility, size, time frames, diversity of the team, cost-effectivenes/budget and specific conditions of the project are just some of the factors that need to be considered when deciding which software architecture is the best for your project. 
 
+## Deployments:
+
+1. NodeJS | Express : https://github.com/kukuu/microservices/tree/master/microservice-nodejs-express
+
+2. https://github.com/kukuu/microservices/tree/master/microservice 
+
+This work demonstrates several key design patterns that include:
+
+- Creating complex routes with route nesting
+
+- Use of most popular tools that are must have for any NodeJS based API project.
+
+- Use of Sinon for stubbing, mocking and spying on unit tests.
+
+- Use of supertest to unit and integration test HTTP endpoints and API endpoints.
+
+- Testing promises with Jasmine, Sinon, Supertest and Chai.
+
+- Separation of concerns through use of service classes for business logic, data access classes for database operations and pure routes for API endpoints.
+
+- Exception handling and exception propagation
+
+## What it provide
+
+- ExpressJS REST API template
+
+- Swagger documentation and Swagger UI
+
+- Jasmine, Sinon, Chai, Supertest configuration for Unit and integration tests.
+
+- Pre-configured jasmine spec reporter
+
+- Jasmine Node Debug for debugging unit tests.
+
+- Fully configured istanbul test coverage
+
+- Winston logger for logging to file and console with daily rotating log file module.
+
+
+
 ### The Architectural Pattern
 
 Microservices architecture is a distributed system of single self-contained units and an approach to application development in which a large application is built as a suite of modular services. Each module supports a specific business goal and uses a simple, well-defined interface  to communicate with other sets of services. 
