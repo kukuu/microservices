@@ -1,7 +1,7 @@
 # Microservices
 A Microservices architecture refers to an application which is constructed from a 
 number of independent services called Microservices. Each microservice is a  
-self-contained module that performs a discrete group of functions. 
+self-contained module that performs a discrete group of functions.  
 The term micro does not mean that the modules that make up the system are necessarily small, 
 just independent. In fact, they each may have a website, web service, windows service, database or a group of apps aggregated together.  
 Communication between each of these modules is achieved via web service calls and messages on a service bus that calls to and collects the relevant data/information from each module. 
